@@ -7,7 +7,7 @@
 - 找到自我
 - 分享感悟
 
-[GitHub](https://github.com/)
+[GitHub](https://github.com/TT2TER/BITFTechWiki)
 [Get Started](#测试标题)
 
 
