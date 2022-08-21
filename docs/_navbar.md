@@ -1,6 +1,6 @@
-* test
+* 有趣小链接
 
-  * [test](post/test.md)
+  * [链接集合](post/link.md)
 
 
 * language
