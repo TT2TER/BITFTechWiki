@@ -1,6 +1,6 @@
 * 讲在前面
 
-  * [前言](zh-cn/quickstart.md)
+  * [前言](post/preface.md)
   * [共同编辑](zh-cn/more-pages.md)
 
 * 定制化
