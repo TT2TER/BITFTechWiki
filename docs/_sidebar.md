@@ -10,6 +10,6 @@
   * [心理指导](2120/MentalHealth.md)
   * [活动指南](2120/Activities.md)
   * [学习指南](2120/toLearn.md)
-  * [生涯规划](2120/beSocial.md)
+  * [生涯规划](2120/HoldYourLife.md)
 
 * [其他信息](others.md)
