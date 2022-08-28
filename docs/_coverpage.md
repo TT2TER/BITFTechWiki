@@ -8,7 +8,7 @@
 - 分享感悟
 
 [GitHub](https://github.com/TT2TER/BITFTechWiki)
-[Get Started](#前言)
+[Get Started](#未来精工生存指南)
 
 
 ![color](#9ADBE8)
