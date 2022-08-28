@@ -133,8 +133,6 @@ i北理8月18号后勤服务推送文章《关于调整食堂服务时间的通�
 
 特殊技巧：使用webvpn，以连接校内内网环境，一般是用[学校官方这个网址](https://webvpn.bit.edu.cn/)，但用它来找一些常用的内网网址比较麻烦，所以推荐用咱们[北理学长](https://spencerwoo.com/)开发的[Web VPN Converter](https://webvpn.swo.moe/)，支持内网链接与webvpn链接转换，支持多种协议与api调用。这样在校外就能够方便的浏览知网了。
 
-?> 我的评价是学校的更傻瓜操作，见仁见智喽
-
 #### 无线
 主要有三种常见的WiFi：`BIT-Mobile`、`BIT-Web`，还有图书馆里的`BeijingLG`。具体操作细节可以看网协的[《校园网使用指南》](https://mp.weixin.qq.com/s/z--faLgApLu1cpO0CxGVhQ)。
 #### 有线
