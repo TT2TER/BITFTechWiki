@@ -19,7 +19,7 @@
 
 项目仓库位于[Github](https://github.com/TT2TER/BITFTechWiki)
 
-本指南所有文章未特殊声明均采用[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)协议
+本指南所有文章未特殊声明均采用[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)开源协议
 
 
 
