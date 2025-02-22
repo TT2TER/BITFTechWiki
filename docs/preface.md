@@ -27,6 +27,7 @@
   * [心理指导](2120/MentalHealth.md)
   * [活动指南](2120/Activities.md)
   * [生涯规划](2120/HoldYourLife.md)
+  * [学科指南](firstsemester.md)
 
 >注：这份指南是未来精工技术学院首届学生的大一暑假社会实践的成果。
 
