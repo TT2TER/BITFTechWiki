@@ -12,5 +12,6 @@
   * [心理指导](2120/MentalHealth.md)
   * [活动指南](2120/Activities.md)
   * [生涯规划](2120/HoldYourLife.md)
+  * [学科指南](firstsemester.md)
 
 * [实践活动中通讯内容](intro.md)
